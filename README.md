@@ -1,2 +1,3 @@
-# CS401
-CS401 Introduction to Advanced Studies II
+# CS201
+Accelerated Introduction to Computer Science Fall 2023
+WIP
