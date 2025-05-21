@@ -1,4 +1,4 @@
-# CS201: Accelerated Introduction to Computer Science – Fall 2023
+# CS 201: Accelerated Introduction to Computer Science – Fall 2023
 
 This repository contains all my coursework, programming labs, and assignments for **CS201: Accelerated Introduction to Computer Science**, offered at **Illinois Institute of Technology** during **Fall 2023**.
 
